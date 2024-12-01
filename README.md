@@ -4,7 +4,6 @@ This project analyzes doctor visit data to gain insights into patterns and trend
 
 Objective
 The goal of this project is to:
-
 Analyze the frequency of doctor visits.
 Understand the correlation between patient demographics (age, gender) and visit patterns.
 Visualize trends over time, such as the number of visits per month or year.

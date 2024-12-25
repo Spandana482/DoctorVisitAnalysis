@@ -1,4 +1,4 @@
-<h1>Doctor Visit Analysis</h1>h1> <br>
+<h1>Doctor Visit Analysis</h1> <br>
 <h2>Overview</h2>
 This project analyzes doctor visit data to gain insights into patterns and trends in patient visits. The analysis is carried out using Python and various libraries, and the project was developed and executed in Google Colab for ease of collaboration and resource accessibility.<br>
 
